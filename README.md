@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou Theo Henrique 🫡
 
-Atualmente, sou um desenvolvedor em formação
+Desenvolvedor WEB **Full-Stack**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodoro-henrique-20458827a/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theohbezerra_/)
@@ -11,11 +11,14 @@ Atualmente, sou um desenvolvedor em formação
 
 ### Estatísticas do GitHub
 
-![theohenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=theohenrique222&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theohenrique222&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theohenrique222&layout=compact)
 
 ---
 
-### Tecnologias em aprendizagem
+### Tecnologias em que trabalho
+
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,5 +35,19 @@ Atualmente, sou um desenvolvedor em formação
 ---
 
 ### Projetos Pessoais
-Estou desenvolvendo projetos pessoais para praticar e aplicar conhecimentos adquiridos. Fiquem a vontade para explorar meus repositórios aqui no GitHub, e acompanhar meu progresso!
 
+- [**NutriBase**](https://github.com/theohenrique222/nutribase): Aplicativo para cálculo de ingestão diária de água, metabolismo basal, proteínas e macronutrientes. _Tecnologias: Vue.js, Tailwind CSS._
+
+- [**Dental Lab**](https://github.com/theohenrique222/dental-lab): Sistema de controle de tabela de preços para laboratório de próteses dentárias. _Tecnologias: Laravel, Filament PHP, Vue.js, MySQL e Tailwind CSS._
+
+- [**FitTrack**](https://github.com/theohenrique222/fittrack): Aplicativo para controle de atividades físicas. _Tecnologias: Laravel, Filament PHP, MySQL, React Native._
+
+- [**Burger Manager**](https://github.com/theohenrique222/burger-manager): Sistema de controle de pedidos de hamburgueria. _Tecnologias: Vue.js, Tailwind CSS e JSON._
+
+- [**HA Smile Designer**](https://github.com/theohenrique222/smile-designer): Landing page para laboratório de próteses dentárias. _Tecnologias: Vue.js, Tailwind CSS._
+
+- [**Gerador de Senhas**](https://github.com/theohenrique222/password-generator): Gerador de senhas aleatórias. _Tecnologias: React Native, Tailwind CSS._
+
+---
+
+_Sempre aberto a novos desafios e oportunidades de colaboração. Fique à vontade para explorar meus repositórios e acompanhar meu progresso!_
