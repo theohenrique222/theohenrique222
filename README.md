@@ -1,4 +1,3 @@
-
 ## Olá! Eu sou Theo Henrique 🫡
 
 Desenvolvedor WEB **Full-Stack**
@@ -25,7 +24,6 @@ Desenvolvedor WEB **Full-Stack**
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend**
 
@@ -34,7 +32,9 @@ Desenvolvedor WEB **Full-Stack**
 
 ---
 
-### Projetos Pessoais
+### 📋 Projetos Pessoais
+
+- [**FlexSale**](https://github.com/theohenrique222/nutribase): Sistema de controle de vendas com gerenciamento de clientes, vendedores, produtos e formas de pagamento personalizáveis _Tecnologias: Laravel, AdminLTE._
 
 - [**NutriBase**](https://github.com/theohenrique222/nutribase): Aplicativo para cálculo de ingestão diária de água, metabolismo basal, proteínas e macronutrientes. _Tecnologias: Vue.js, Tailwind CSS._
 
