@@ -34,13 +34,13 @@ Desenvolvedor WEB **Full-Stack**
 
 ### 📋 Projetos Pessoais
 
-- [**FlexSale**](https://github.com/theohenrique222/nutribase): Sistema de controle de vendas com gerenciamento de clientes, vendedores, produtos e formas de pagamento personalizáveis _Tecnologias: Laravel, AdminLTE._
+- [**FlexSale**](https://github.com/theohenrique222/nutribase): Sistema de controle de vendas com gerenciamento de clientes, vendedores, produtos e formas de pagamento personalizáveis _Tecnologias: Laravel, AdminLTE, JavaScript, MySQL_
 
-- [**NutriBase**](https://github.com/theohenrique222/nutribase): Aplicativo para cálculo de ingestão diária de água, metabolismo basal, proteínas e macronutrientes. _Tecnologias: Vue.js, Tailwind CSS._
+- [**NutriBase**](https://github.com/theohenrique222/FlexSales.git): Aplicativo para cálculo de ingestão diária de água, metabolismo basal, proteínas e macronutrientes. _Tecnologias: Vue.js, Tailwind CSS._
 
-- [**Dental Lab**](https://github.com/theohenrique222/dental-lab): Sistema de controle de tabela de preços para laboratório de próteses dentárias. _Tecnologias: Laravel, Filament PHP, Vue.js, MySQL e Tailwind CSS._
+- [**Dental Lab**](https://github.com/theohenrique222/dental-lab): Sistema de controle de tabela de preços para laboratório de próteses dentárias. _Tecnologias: Laravel, Filament PHP, Vue.js, MySQL e Tailwind CSS, MySQL._
 
-- [**FitTrack**](https://github.com/theohenrique222/fittrack): Aplicativo para controle de atividades físicas. _Tecnologias: Laravel, Filament PHP, MySQL, React Native._
+- [**FitTrack**](https://github.com/theohenrique222/fittrack): Aplicativo para controle de atividades físicas. _Tecnologias: Laravel, Filament PHP, MySQL, React Native, MySQL._
 
 - [**Burger Manager**](https://github.com/theohenrique222/burger-manager): Sistema de controle de pedidos de hamburgueria. _Tecnologias: Vue.js, Tailwind CSS e JSON._
 
